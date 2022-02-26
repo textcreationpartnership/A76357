@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the abominable injustice, oppressions and tyranny, which Captain Henry Bell suffered nine years together at the Councell board, before this Parliament began, as the said Captain Bell did humbly exhibite the same to the King at White-Hall, on the second day of December 1640. and what His Majesty was graciously pleased to doe thereupon. And also, herein the said Captain Bell doth exhibite his humble petition to the Right Honourable the Lords assembled in Parliament. ...</title>
+            <author>Bell, Henry, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76357</idno>
+            <idno type="STC">Wing B1797</idno>
+            <idno type="STC">Wing T2923</idno>
+            <idno type="STC">Thomason E357_4</idno>
+            <idno type="STC">ESTC R201147</idno>
+            <idno type="EEBO-CITATION">99861695</idno>
+            <idno type="PROQUEST">99861695</idno>
+            <idno type="VID">113836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113836)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E357[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the abominable injustice, oppressions and tyranny, which Captain Henry Bell suffered nine years together at the Councell board, before this Parliament began, as the said Captain Bell did humbly exhibite the same to the King at White-Hall, on the second day of December 1640. and what His Majesty was graciously pleased to doe thereupon. And also, herein the said Captain Bell doth exhibite his humble petition to the Right Honourable the Lords assembled in Parliament. ...</title>
+                  <author>Bell, Henry, Captain.</author>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 12], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 is misnumbered 5.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Octob: 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Imprint from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bell, Henry, --  Captain --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113836:1"/>
+            <pb facs="tcp:113836:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION OF THE ABOMINABLE Injuſtice, Oppreſsions and Tyranny, which Captain <hi>Henry Bell</hi> ſuffered nine years together at the Councell-board, before this Par<g ref="char:EOLhyphen"/>liament began, as the ſaid Captain <hi>Bell</hi> did humbly Exhibite the ſame to the King at <hi>White-Hall,</hi> on the ſecond day of <hi>December</hi> 1640. and what His Majeſty was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to doe thereupon.</p>
+            <p>AND ALSO, HEREIN THE SAID CAPTAIN <hi>Bell</hi> doth exhibite his humble Petition to the Right Honourable the Lords Aſſembled in Parliament.</p>
+            <p>Wherein he truly ſheweth, what La<g ref="char:EOLhyphen"/>mentable paſſages have hapned unto him, and what miſery hee hath ſuffered now al<g ref="char:EOLhyphen"/>moſt ſix yeares together ſince the beginning of this Parliament; only by reaſon their Lordſhips have not yet taken his grievances into hearing, which the King did referre and ſend un<g ref="char:EOLhyphen"/>to their Lordſhips, by the Lord Privy Seale, and by Sir <hi>John Bankes</hi> when this Parlia<g ref="char:EOLhyphen"/>ment began.</p>
+            <p>Printed in the yeare 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:113836:2"/>
+            <pb n="1" facs="tcp:113836:2"/>
+            <head>TO THE KINGS MOST Excellent MAIESTY. The humble Petition of Captain <hi>Henry Bell.</hi>
+            </head>
+            <opener>
+               <salute>Moſt gracious Soveraigne:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Your Majeſties moſt humble Petitioner, would rather be a Bond ſlave among the Turkes, then Your Majeſties Free-born man (as I am) to be uſed as I have been nine yeares together before this Parliament began, at your Councell-board here in <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> For the courſes which were taken againſt me by the whole Councell board, were more unjuſt then the ungodly proceedings that were taken againſt <hi>Naboth,</hi> in the time of wicked King <hi>Ahab,</hi> who by falſe accuſation was unjuſtly bereaved of his Vine-yard, whereby both <hi>Ahab</hi> and <hi>Jeza<g ref="char:EOLhyphen"/>bel</hi> were deſtroyed: which fearfull example of Gods wrath may well ſerve at this time to be a looking-glaſſe for my Ad<g ref="char:EOLhyphen"/>verſaries at the Councell-board, who likewiſe did bend their utmoſt endevours u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>juſtly to bereave me of my Vine-yard alſo (that is) of my poore eſtate, which I disburſed in a ſer<g ref="char:EOLhyphen"/>vice, wherein I was imployed by your Majeſties Royall Fa<g ref="char:EOLhyphen"/>ther King <hi>James,</hi> amounting to <hi>5268 <abbr>l</abbr>
+               </hi> the Service being of no leſſe moment then for the preſervation of both your Majeſties lives, as <hi>M.</hi> Secretary <hi>Morton,</hi> by your Majeſties
+<pb n="2" facs="tcp:113836:3"/>
+command did certifie your Majeſty in writing at <hi>Holbery</hi> ſhortly before his death.</p>
+            <p>
+               <hi>Wherefore I doe moſt humbly pray your Majeſty will be graciouſly pleaſed to referre this Petition and my grievances hereunto annexed, to be ſpee<g ref="char:EOLhyphen"/>dily heard before the Aſſembly ſitting in the Commons Houſe in Parliament, that ſo I may have and receive payment of ſuch moneys, as are due unto mee from your Majeſty, together with ſuch ſatisfaction for my nine yeares wrongfull Impriſonment, Loſſes and Diſgraces, as ſhall be found agreeable with Juſtice and Equity.</hi>
+            </p>
+            <closer>
+               <signed>And I ſhall ever pray for your Majeſties long and happy Reigne. <hi>HENRY BELL.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:113836:3"/>
+            <head>A true Relation of the ſtate and pro<g ref="char:EOLhyphen"/>ceedings of Captain <hi>Henry Bells</hi> Cauſe, nine <hi>yeares together at the Councell-board.</hi>
+            </head>
+            <p n="1">I. THAT I Captaine <hi>Henry Bell</hi> was imployed beyond the ſeas foure yeares together by your Majeſties Royall Father King <hi>James,</hi> about the pretended loving Letter which the Empreſſe wrote to her Highneſſe the Lady <hi>Elizabeth</hi> your Majeſties Siſter, <hi>Anno</hi> 1618. under the colour of which Letter that hor<g ref="char:EOLhyphen"/>rible plot ſhould have taken effect at <hi>Ratisbone,</hi> which was con<g ref="char:EOLhyphen"/>trived at <hi>Vienna,</hi> againſt the Lady <hi>Elizabeth,</hi> and the young <hi>Prince</hi> her then only Sonne, and alſo againſt King <hi>James</hi> and your then <hi>Princely</hi> perſon, certified more at large unto your Majeſty by Secretary <hi>Morton,</hi> as is before related.</p>
+            <p n="2">II. That in the ſaid imployment (as alſo in another im<g ref="char:EOLhyphen"/>ployment here in this Kingdome) I disburſed out of purſe for the uſe and ſervice of King <hi>James,</hi> of your Majeſtie, and of this State the Summe of 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 38 <abbr>l</abbr>, in moneyes.</p>
+            <p n="3">III. That in ſatisfaction of the ſaid Summe disburſed, his Majeſty <hi>Anno</hi> 1619. (with the full conſent of the whole Councell-board) did grant unto me under the great Seale of <hi>England</hi> the yearly Pention of 500 <abbr>l</abbr>, for the Terme of 31. yeares to endure.</p>
+            <p n="4">IV. That after the death of King <hi>James</hi> (in regard my Pen<g ref="char:EOLhyphen"/>tion could not be duly paid unto mee) your Majeſty (upon the foreſaid Mr. Secretary <hi>Mortons</hi> Certificate) did graciouſly grant two Privy Seales for the payment of 900 <abbr>l</abbr> in part of the foreſaid ſumme disburſed, therewith to relieve me in my then preſent wants.</p>
+            <p n="5">V. That <hi>Anno</hi> 1630. your Majeſty was graciouſly pleaſed to give order to the Lord Treaſurer <hi>Weſton</hi> to cauſe another Privy Seale to be drawne up and paſſed unto me for the pay<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:113836:4"/>
+of 5000 <abbr>l</abbr> more in liew of my foreſaid Pention, and in ſatisfaction of the moneyes by me disburſed as aforeſaid.</p>
+            <p n="6">VI. That I attended the ſaid Lord Treaſurer two yeares for the paſſing of the ſaid Privy Seale, in which time I had nothing from him, but only fayre promiſes (without any per<g ref="char:EOLhyphen"/>formance) for the paſſing of the ſame, inſomuch as I was for<g ref="char:EOLhyphen"/>ced to make my griev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us caſe knowne unto him, and tell him that my ſelfe, my wife and children were like to periſh for want of my moneyes and meanes, and therfore I humbly prayed his Lordſhip to give directions for the drawing up of the ſaid Privy Seale according to your Majeſties order in that behalfe, otherwiſe (I told him) I ſhould be forced to com<g ref="char:EOLhyphen"/>plaine of him to your Majeſty, and to the State.</p>
+            <p n="7">VII. That his Lordſhip thereupon grew very angry, and ſaid thus unto me, Captain <hi>Bell,</hi> ſeeing you are ſo peremptory, you ſhall ſtay yet longer for your Privy Seale, and becauſe you ſay you will complaine of me, therefore I will goe to the Councell Table and complaine of you to the Lords; which he did forthwith according, and told the Lords that I threat<g ref="char:EOLhyphen"/>ned to complaine of him.</p>
+            <p n="8">VIII. That within a few dayes after the late Archbiſhop of <hi>Canterbury,</hi> the Lord Treaſurer the Lord <hi>Cottington,</hi> and others of the <hi>Auſtrian</hi> and <hi>Spaniſh</hi> faction, who concei<g ref="char:EOLhyphen"/>ved, and did beare an inward hate toward me ever ſince I per<g ref="char:EOLhyphen"/>formed the foreſaid ſervice, did procure a warrant from the whole Councell-board to commit me to priſon in the Gate<g ref="char:EOLhyphen"/>houſe <hi>Weſtminſter</hi> without ſhewing any cauſe why they com<g ref="char:EOLhyphen"/>mitted me.</p>
+            <p n="9">IX. That upon the ſaid Warrant I ſuffered nine yeares impriſonment moſt wrongfully, and innocently by apparent oppreſſion, injuſtice, and tyranny.</p>
+            <p n="10">X. That after I had been two yeares in Priſon, and with<g ref="char:EOLhyphen"/>out intermiſſion did daily petition their Lordſhips to know the cauſe why they kept me in priſon, then (becauſe for ſhame of the world they muſt ſhew ſome colour of cauſe for keep<g ref="char:EOLhyphen"/>ing mee in Priſon) there was moſt wickedly contrived ſuch a Bill againſt me, as that the like thereunto was never
+<pb n="5" facs="tcp:113836:4"/>
+heard of nor known ſo long as this Kingdome hath ſtood, for from the beginning of the firſt word in the ſaid Bill, to the end of the laſt, there was nothing true in the whole Bill, nei<g ref="char:EOLhyphen"/>ther was the ſaid Bill drawne upon any information at all, but it was only deviſed by and upon their Lorſhips meere con<g ref="char:EOLhyphen"/>ceits, and pretended cogitations and weenings.</p>
+            <p n="11">XI. That I forthwith did put in my anſwer to the ſaid Bill, and thereupon I ſent continually one petition after an<g ref="char:EOLhyphen"/>other to the Councell board humbly deſiring their Lord<g ref="char:EOLhyphen"/>ſhips to give order that the ſaid Bill and anſwer might be brought to a ſpeedy tryall.</p>
+            <p n="12">XII. That when the Lords underſtood that I would not ceaſe from petitioning to have that Bill and anſwer brought to a tryall, then their Lordſhips directed Sir <hi>John Bankes</hi> Attorney Generall to ſend for me, who ſaid unto me as fol<g ref="char:EOLhyphen"/>loweth; Captaine <hi>Bell,</hi> the Lords of the Councell have com<g ref="char:EOLhyphen"/>manded me to ſend for you, and to tell you that the Bill was not drawne againſt you with any intent to bring it to a tryall, but only to ſee what anſwer you would make thereunto, and the Lords are now ſatisfied with your anſwer to the ſame, and they have ordered the Bill to be diſmiſſed, and that the reaſon they committed you to Priſon was, becauſe you kept ſuch a continuall clamouring for your mony which the King ow<g ref="char:EOLhyphen"/>eth you, whereas my Lord Treaſurer many times told you, that there was not yet money to pay you, and the Lords have commanded me to tell you further, that if you will be bound with good ſecurity in a Bond of 2000 <abbr>l</abbr> that you will be quiet, and not make a clamouring for your money, but with pa<g ref="char:EOLhyphen"/>tience will forbeare yet one yeare to trouble their Lordſhips untill money comes in to pay you, then the Lords will ſet you at liberty, and for your maintenance their Lordſhips will con<g ref="char:EOLhyphen"/>tinue your allowance, which you have had in Priſon, <hi>(viz.)</hi> a Noble <hi>per diem,</hi> untill you receive your money due unto you from the King; whereupon I told Sir <hi>John Bankes,</hi> that I would be bound with good Security to performe the ſame.</p>
+            <p n="13">XIII. That two dayes after I ſent word to Sir <hi>John Bankes</hi> that I had my Security ready, and I ſent him their names, and
+<pb n="6" facs="tcp:113836:5"/>
+gave him notice where they dwelt, then he ſent for us to come unto him to his chamber in Grayes-Inne, where we entred in<g ref="char:EOLhyphen"/>to Bond of 2000<abbr>l</abbr> for the performing of the particulars a<g ref="char:EOLhyphen"/>bove related; whereupon Sir <hi>John Bankes</hi> tooke the ſaid bond and told us he would ſhew it unto the Lords, and that the next morning he would ſend a Warrant to the keeper of the Gate<g ref="char:EOLhyphen"/>houſe to ſet me at liberty.</p>
+            <p n="14">XIV. That I was not only kept ſtill in Priſon five yeares after we had given Bond as aforſaid (without any warrant for my enlargement) but alſo Sir <hi>John Bankes</hi> kept our Bond ſtill in his hand, and would neither deliver it up unto us, nor would he give Warrant for my enlargement, whereby my Security were forced to neglect all their owne affayres in Trading, and to attend continually in Petitioning, either to have the ſaid Bond delivered up unto us, or els that a Warrant might be gi<g ref="char:EOLhyphen"/>ven for my enlargement out of Priſon; But all petitioning was in vaine, inſomuch as thereby I forfeited my Counter<g ref="char:EOLhyphen"/>bond of two thouſand pounds which I gave my Security to ſave them harmeleſſe.</p>
+            <p n="15">XV That during the time of my impriſonment I ſent 214 Petitions to the Councell-board, in all which my Petitions, I made humble ſute unto their Lordſhips only for Juſtice, that I might know why they kept me in Priſon, ſeeing no man could juſtly charge me that I had offended the King either in word or in deed, or that I had tranſgreſſed the Lawes of this Land, but that on the contrary I had done good and excepta<g ref="char:EOLhyphen"/>ble ſervice to and for the King and this State, all which I of<g ref="char:EOLhyphen"/>fered to prove apparantly if their Lordſhips would be but pleaſed once to heare me, but all my Petitioning was in vaine, I could never obtain ſo much Iuſtice at their Lordſhips hands, as once to be called before them, nor to be heard to ſpeake ſo<g ref="char:EOLhyphen"/>much as one word, nor could I ever know any cauſe why they kept me in priſon, but only they ſent me word many and often<g ref="char:EOLhyphen"/>times (eſpecially the Lord Privy Seale) that they were aſſured if I were ſet at Liberty, I would keepe a Clamouring for my money, and there was not yet, money for to pay me, inſo<g ref="char:EOLhyphen"/>much that thereupon I ſent a Petition to the late Archbiſhop
+<pb n="7" facs="tcp:113836:5"/>
+of <hi>Canterbury,</hi> and another to the Lord Priuy Seale, wherein I told their Lordſhips that if ever it pleaſed God to ſend us a Parliament, their Lordſhips would <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>theſe courſes they took againſt me; The Lord Privy Seale ſhewed my ſaid Petition to the Lords at the Councell-board; And ſaid; By this peti<g ref="char:EOLhyphen"/>tion we may eaſily gather, that Captain <hi>Bell</hi> would be a very troubleſome man unto us if we ſhould ſet him at liberty, therefore (he ſaid) by my conſent he ſhall ſtill remaine where he is, untill his money can be paid him.</p>
+            <p n="16">XVI. That theſe tyranicall unjuſt and oppreſſive courſes taken againſt me at the Councell-board, did cauſe and worke the untimely deathes of my wife and of my young children, who lamentably periſhed and were ſtarved to death, in the time of my nine yeares unjuſt, and wrongfull impriſonment, whoſe innocent bloods and untimely deathes God will re<g ref="char:EOLhyphen"/>veng, and will require the ſame at the hands of the authors and cauſers thereof.</p>
+            <p>Thus and hereby your Majeſty may be graciouſly pleaſed plainly to find and ſee, that this Land is even now ripe for puniſhment, and it is much to be feared that Gods Anger is already kindled againſt us, by reaſon of the heavy ſinnes of injuſtice which fearfully have taken the upper hand, doe ſway and floriſh heere amongſt us, and that Gods Judgement will ere long be powered downe upon this Kingdome.</p>
+            <closer>
+               <dateline>Given <date>this ſecond day of <hi>December,</hi> 1640.</date>
+               </dateline>
+               <signed>HENRY BELL.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:113836:6"/>
+            <head>TO THE RIGHT HONOVRABLE THE LORDS Aſſembled in Parliament. The humble Remonſtrance and Petition of Captaine <hi>Henry Bell.</hi>
+            </head>
+            <opener>Humbly ſhewing:</opener>
+            <p n="1">I. THAT before this Parliament began, after the Petitioner had ſuffered nine yeares impriſonment moſt wrongfully and innocently, and that his mo<g ref="char:EOLhyphen"/>neyes amounting to five thouſand two hundred ſixty eight pounds, were moſt unjuſtly detained from him, whereby his wife and two ſmall children lamentably periſhed and were ſtarved to death, in the time of his ſaid wrongfull impriſon<g ref="char:EOLhyphen"/>ment, which with many more oppreſſions, injuſtice and ty<g ref="char:EOLhyphen"/>ranny, your petitioner ſuffered only by warrant from the Councell-board, then at the begining of this Parliament your Petitioner humbly beſought his Majeſty to referr his grievous complaint againſt the Councell-board to be heard and de<g ref="char:EOLhyphen"/>termined in and before the Honourable Houſes of Parli<g ref="char:EOLhyphen"/>ament, whereupon his Majeſty preſently reading the ſaid grievances did ſtraitly charge the Petitioner that he ſhould not bring his great complaint againſt the Councell-board into the Houſe of Commons, but his Majeſty did forthwith referre, and did ſend the ſame to your Lordſhips by the Lord
+<pb n="9" facs="tcp:113836:6"/>
+privy Seale, and by Sir <hi>Iohn Bankes,</hi> requiring your Lordſhips to take the Petitioners grievances into a ſpeedy and a private hearing, and to determine thereof for your Petitioners juſt reliefe, and to the intent your Lordſhips might be pleaſed the ſooner and with the more eaſe diſpatch the ſame, his Maje<g ref="char:EOLhyphen"/>ſty did then alſo ſend unto your Lordſhips the Empreſſe letter which ſhe wrot to his Majeſties Siſter the Lady <hi>Elizabeth,</hi> and Mr. Secretary <hi>Mortons</hi> Certificate touching the ſame, which doe cleerly demonſtrate the ſervice done by your petitioner, in his Majeſties imployments beyond the Seas, in and about the diſcovering and preventing that horrible plot which was contrived at <hi>Vienna Anno</hi> 1616. againſt her Highneſſ the Lady <hi>Elizabeth,</hi> and alſo what moneys he disburſed therein, the which letter and Certificate were by your Lordſhips directi<g ref="char:EOLhyphen"/>ons delivered into Mr. <hi>Smithes</hi> cuſtody one of the Clarks at<g ref="char:EOLhyphen"/>tending on your Lordſhips.</p>
+            <p n="2">II. That ſince his Majeſty did ſend the ſaid perticulars un<g ref="char:EOLhyphen"/>to your Lordſhips, the Petitioner hath received divers Orders from your Lordſhips in writing, and dayes of hearing his cauſe ſet downe, but nothing at all hath beene done therein.</p>
+            <p n="3">III. That neare three yeares paſt the right Honrable, the Lords and others, Commiſſioners of <hi>Scotland</hi> did write their letters unto your Lordſhips in the Petitioners behalfe, and therein did earneſtly entreat, that your Lordſhips would be pleaſed to take a ſpeedy hearing of the Petitioners grevances, in regard his moneys and meanes were ſtill detained from him, and was not able to ſubſiſt any longer without order for maintenance to be allowed him, untill his cauſe were heard and determined, upon which letters your Lordſhips were pleaſed to returne this anſwer following to the Com<g ref="char:EOLhyphen"/>mons of <hi>Scotland viz.</hi> that whereas your Lordſhips had not time and leaſure to heare the Petitioners cauſe by reaſon of many other weightyer affaires: your Lordſhips therefore with the houſe of Commons would order a competent main<g ref="char:EOLhyphen"/>tenance
+<pb n="10" facs="tcp:113836:7"/>
+to be allowed unto the petitioner untill his cauſe were heard and determined.</p>
+            <p n="4">IIII. That notwithſtanding your Lordſhips ſaid anſwer and promiſe made and ſent to the Commiſſioners of <hi>Scotland:</hi> there hath been no order at all yet taken for your Petitioners reliefe or maintenance: by reaſon whereof another child of his came likewiſe to an untimely death and periſhed in lamen<g ref="char:EOLhyphen"/>table ſort for want of neceſſary ſuſtainance, &amp; the Petitioner himſelfe is now thereby alſo ſunck into ſuch a depth of mi<g ref="char:EOLhyphen"/>ſery and poverty, that he is meerly deſtitute of Food, Ray<g ref="char:EOLhyphen"/>ment and Lodging, and muſt needs likewiſe periſh if he be not ſpeedily relieved.</p>
+            <p>And ſo hee leaveth it to the Worlds cenſure whether the perticulars above related doe any way agree with Juſtice, or doe concurre with the ſolemn Oath and Covenant lately taken and ſworne unto, or whether they be not quite oppo<g ref="char:EOLhyphen"/>ſite to the ſame.</p>
+            <p>Foraſmuch now as it was not his Majeſties will and pleaſure to ſuffer the Petitioner to addreſſe himſelfe with his greevances to the Houſe of Commons (where he might long ſince have been relieeved) but was graciouſly pleaſed to put him and his cauſe into your Lordſhips hands Juſtlie to be repaired.</p>
+            <p>Your Petitioner therefore humbly prayeth that your Lord<g ref="char:EOLhyphen"/>ſhips will not ſuffer him to be deſtroyed, to ſtarve and periſh in your Lordſhips hands for want of Juſtice, but rather to order and nominate a certaine day unfayleably for the hear<g ref="char:EOLhyphen"/>ing of his grievances either in publique or in private as your Lordſhips ſhall thinke fitting, and thereupon, that your Lord<g ref="char:EOLhyphen"/>ſh ps will be alſo pleaſed (together with the Honourable Houſe of Commons) to order unto the Petitoner, payment of ſuch moneys as he ſhall make plainly appeare to be juſtly due unto him from his Majeſty, and alſo to order him ſatiſ<g ref="char:EOLhyphen"/>faction
+<pb n="11" facs="tcp:113836:7"/>
+(out of the eſtates of theſe Privy Councellers and o<g ref="char:EOLhyphen"/>thers whether they be living or dead) that are and have been the authours of the petitioners nine yeare wrongfull impri<g ref="char:EOLhyphen"/>ſonment, and who have cauſed the untimely deathes and ſtar<g ref="char:EOLhyphen"/>ving of his wife and Children as is above related, a Liſt of whoſe names are ſet downe hereafter following,</p>
+            <closer>
+               <signed>And your Petitioner ſhall pray for your Lordſhips healthes and proſperity. HENRY BELL.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <pb n="5" facs="tcp:113836:8"/>
+            <head>Hereafter are ſet downe the names of thoſe Privie Counſellers, and others, that were and are the Authors of my foreſaid, and other wrongfull ſufferings.</head>
+            <list>
+               <item>THe late Arch-Biſhop of <hi>Canterbury.</hi>
+               </item>
+               <item>The Lord <hi>Covintry,</hi> Lord Keeper.</item>
+               <item>The Earle of <hi>Portland,</hi> Lord Treaſurer.</item>
+               <item>The Earle of <hi>Mancheſter,</hi> Lord Privie Seale.</item>
+               <item>The Earle of <hi>Pembrooke,</hi> Lord Chamberlein.</item>
+               <item>The Lord <hi>Cottington.</hi>
+               </item>
+               <item>The Lord <hi>Falkland.</hi>
+               </item>
+               <item>Maſter Secretarie <hi>Cooke.</hi>
+               </item>
+            </list>
+            <p>Theſe eight above named, did ſubſcribe their names to the warrant for my Commitment<g ref="char:punc">▪</g>
+            </p>
+            <list>
+               <item>The Earle of <hi>Strafford.</hi>
+               </item>
+               <item>The Earle of <hi>Arundell.</hi>
+               </item>
+               <item>The Earle of <hi>Dorſot.</hi>
+               </item>
+               <item>The Earle of <hi>Suffolke.</hi>
+               </item>
+               <item>The Earle of <hi>Saliſbury.</hi>
+               </item>
+               <item>The Earle of <hi>Bridge-water.</hi>
+               </item>
+               <item>The Earle of <hi>Holland.</hi>
+               </item>
+               <item>The Earle of <hi>Exeter.</hi>
+               </item>
+               <item>The Lord <hi>Wimbleton.</hi>
+               </item>
+               <item>The Lord <hi>Savill Comptroler.</hi>
+               </item>
+               <item>The Lord <hi>Goring.</hi>
+               </item>
+               <item>The Lord <hi>New-burgh.</hi>
+               </item>
+               <item>The Biſhop of <hi>London,</hi> Lord Treaſurer.</item>
+               <item>The Arch Biſhop of <hi>Yorke.</hi> Doctor <hi>Neale.</hi>
+               </item>
+               <item>Sir <hi>Thomas Edmonds.</hi>
+               </item>
+               <item>Sir <hi>Iulius Caeſar.</hi>
+               </item>
+               <item>Sir <hi>Robert Naunton.</hi>
+               </item>
+               <item>Secretary <hi>Windebanke.</hi>
+               </item>
+               <item>Sir <hi>Thomas Iermin.</hi>
+               </item>
+               <item>Sir <hi>Iohn Bankes.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113836:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
